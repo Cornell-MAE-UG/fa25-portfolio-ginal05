@@ -14,4 +14,4 @@ For my Mechanics of Materials class, I was tasked to design a torque wrench that
 * material must be a steel, aluminum or titanium alloy.
 
 Please see the following PDF for the finalized design and analysis:
-[Torque Wrench Design]({{ "/assets/Torque Wrench Design.pdf" | Torque Wrench Design }})
+[Torque Wrench Design]({{ "assets/Torque Wrench Design.pdf" | Torque Wrench Design }})
