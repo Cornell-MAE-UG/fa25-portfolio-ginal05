@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my Resume]<a href="/assets/Gina Liu - Resume.pdf">ok</a> in PDF format.
+<a href="{{'/assets/Gina Liu - Resume.pdf'}}">Download my Resume</a> in PDF format.
 
 
 **Email:** [gl528@cornell.edu](mailto:gl528@cornell.edu) | | | **Phone:** +929 253 7011 
