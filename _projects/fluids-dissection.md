@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Weed Wacker Fluids Dissection
-description: fluid mechanics dissection
+description: fluid mechanical dissection
 technologies: [Procreate]
 image: /assets/images/weed-wacker-engine.png
 ---
@@ -12,7 +12,4 @@ My main contributions to this project is describing how the cooling turbine work
 
 Please see the video below to view our project!
 
-<video width="320" height="240" autoplay>
-  <source src="Fluid Dissection Video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<embed src="{{'Fluid Dissection Video.mp4' | relative_url}}" type="video/mp4" width="100%" height="100%" title="Weed Wacker Analysis">
