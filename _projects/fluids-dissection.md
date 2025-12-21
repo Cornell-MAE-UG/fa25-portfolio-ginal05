@@ -12,4 +12,4 @@ My main contributions to this project is describing how the cooling turbine work
 
 Please see the video below to view our project!
 
-<embed src="{{'assets/Fluid Disssection Video.mp4' | relative_url}}" type="video/mp4" width="100%" height="100%" title="Weed Wacker Analysis">
+<embed src="{{'assets/Fluid Disssection Video.mp4' | relative_url}}" type="video/mp4" width="1440" height="1080" title="Weed Wacker Analysis">
