@@ -11,4 +11,4 @@ In my mechatronics class, a robot competition was held where students had to bui
 
 For more information, please see the attached PDF!
 
-<embed src="{{'/assets/Torque Wrench Design.pdf' | relative_url}}" type="application/pdf" width="100%" height="600px" title="Robot Competition Report">
+<embed src="{{'/assets/Mechatronics Final Report.pdf' | relative_url}}" type="application/pdf" width="100%" height="600px" title="Robot Competition Report">
